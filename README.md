@@ -1,4 +1,4 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+The basic project folder structure has been created.
+All the folder are currently empty.
+Each folder has a .gitkeep folder which i kept temporarily to setup this
+Each team can edit their folder and remove .gitkeep file when they can 
